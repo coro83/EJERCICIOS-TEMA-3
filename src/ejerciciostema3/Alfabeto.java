@@ -7,7 +7,7 @@ package ejerciciostema3;
 
 /**
  *
- * @author Dani
+ * @author Ana
  */
 public class Alfabeto extends javax.swing.JFrame {
 
